@@ -161,3 +161,5 @@ SecureAudit is intended for **authorized assessment of systems you own or have p
 ## License
 
 MIT License — free to use, modify, and showcase in your portfolio.
+
+Thank you
